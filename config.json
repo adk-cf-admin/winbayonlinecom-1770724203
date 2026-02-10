@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#023B68",
+            "lang-select-color": "#222829",
+            "bg-light": "#023B68",
+            "welcome-bonus-bg": "#023B68",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#094982",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#4FB8E4",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#f2c121",
+            "yellow": "#4FB8E4",
+            "yellow-button": "#f2c121",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#023B68",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#023B68",
+            "faq-label": "#023B68",
+            "bg-footer": "#023B68",
+            "copyright": "#e7e7d5",
+            "starColor": "#4FB8E4",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2810"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2812",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Winbay Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2813",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Winbay"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Winbay",
+                    "title": "Winbay: 100% bonus up to A$750 + 200 free spins, live tables & sportsbook",
+                    "description": "Play at Winbay with thousands of slots, live dealer tables, and sports betting in one account. Claim a 100% welcome bonus up to A$750 plus up to 200 free spins, join tournaments, and withdraw winnings with flexible payment options.",
+                    "canonical": "winbayonline.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2814",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "winbayonline.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2815"
+                },
+                "hero": {
+                    "title": "Winbay — slots, live casino & sports betting",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2816",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2817",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots from leading providers",
+                        "Live casino with dealers and shows",
+                        "Sportsbook with broad betting markets",
+                        "Welcome bonus: 100% up to A$750",
+                        "200 free spins to boost starts",
+                        "Tournaments, missions, and leaderboard prizes",
+                        "Fast payouts with flexible payment options"
+                    ],
+                    "advantagesAfterText": "We focus on a smooth, exciting experience: huge variety, clear navigation, and steady promotions to keep every session rewarding. Getting started is simple, and returning always feels worthwhile.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Winbay App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2818",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Winbay App",
+                    "mobileGooglePlayImageTitle": "Winbay App",
+                    "mobileIosImageTitle": "Winbay App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Winbay",
+                        "description1": "We combine casino and sports betting in one account, so you can chase wins your way. We also run tournaments and missions that add extra prize potential.\n",
+                        "items": [
+                            "100% bonus up to A$750.",
+                            "200 free spins included.",
+                            "Withdraw up to A$10,500\/month."
+                        ],
+                        "description2": "Our casino is a modern online platform that brings slots, live casino, and sports betting together in one place. We focus on ease of use: sign‑up takes only minutes and the interface feels intuitive for both new and experienced players. In our slots section, you’ll find thousands of titles with different themes, features, and volatility levels, making it simple to match your style and bankroll. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2819",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "For those who love the real‑venue vibe, we build a strong live casino offering with dealers and interactive game shows where energy and pace matter. If you prefer sporting excitement, we provide a sportsbook with popular events and a live‑betting mode for in‑play action. To make your first steps memorable, we offer a welcome package featuring a match bonus up to A$750 plus extra free spins. From there, ongoing promotions keep things lively through missions, challenges, tournaments, and leaderboards that reward active play. We value consistency, so returning and taking part in promos can unlock additional perks. We also run seasonal and holiday‑themed moments with special tasks and prize‑driven activity. Everything is designed to run smoothly on desktop and mobile, so you can play wherever it suits you. Our payments flow is built for convenient deposits and clear, trackable withdrawals. To keep play fair, we apply modern security measures and identity checks where needed. Support is here to help with accounts, bonuses, bets, and payouts, with a friendly tone and practical guidance. We keep expanding features so you can switch between slots, live tables, and sports whenever you want. It’s easy to plan sessions, choose comfortable limits, and maintain a steady rhythm. If you’re after a place where entertainment and winning potential meet everyday convenience, we’ve built exactly that.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Winbay: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nAccess & Play Rules: comfortable, fair, responsible\n<\/h3>\n\n<p>\nWe build a safe, transparent environment, so access to our casino follows clear rules. You can play after registration and age confirmation to protect fairness and standards. We ask for accurate details because it helps speed up payouts and makes support smoother. To keep conditions equal, we apply a one‑account‑per‑person rule and prohibit any manipulation of bonuses or betting activity. We encourage respectful communication in chat and a positive attitude toward dealers and other players. Any attempt to interfere with the platform, use prohibited tools, or bypass limits isn’t allowed. We support comfortable pacing and recommend planning your budget before you play. Responsible play is a genuine priority for us, and we offer self‑control options and self‑exclusion pathways. If you need a break, you can contact support to help limit access. Our goal is simple: rules that are easy to understand and protect your enjoyment.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess and participation conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge & identity: adults only; identity\/age verification may be requested.\n\n<\/li>\n            <li>• \nSingle account: one profile per player for correct bonus and payout handling.\n\n<\/li>\n            <li>• \nAccurate details: keep contact and payment details current for faster processing.\n\n<\/li>\n            <li>• \nLocation access: availability may depend on where you are and service restrictions.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts: creating extra accounts or playing through someone else.\n\n<\/li>\n            <li>• \nBonus abuse: schemes designed to bypass terms or force artificial completion.\n\n<\/li>\n            <li>• \nTechnical interference: hacking attempts, scripts, bots, data tampering, game manipulation.\n\n<\/li>\n            <li>• \nUnfair conduct: abuse, threats, spam, or disruptive behaviour in any channel.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set personal caps for deposits and session time.\n\n<\/li>\n            <li>• \nBreaks: pause if you feel tired or overly engaged.\n\n<\/li>\n            <li>• \nSelf‑exclusion: we can help restrict access for a chosen period.\n\n<\/li>\n            <li>• \nPlay for fun: treat betting as entertainment, not income.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Security: protecting your data at every step\n<\/h3>\n\n<p>\nWe operate within licensing frameworks and follow standards that support fair play and transparent transactions. Licensing requirements set expectations for financial discipline, payout handling, and responsible customer care. We regularly refine internal procedures to align with compliance and responsible play principles. Identity checks and source‑of‑funds steps are applied where appropriate to protect accounts and payments. This approach strengthens trust and keeps the experience predictable. For us, clarity and consistency matter.\n\n<\/p>\n<br>\n\n\n<p>\nWe use modern security methods for both data in transit and data at rest. Connections to the platform are protected by cryptographic protocols designed to reduce interception risk. Key account settings and payment actions are processed inside secured environments with controlled access. We apply role separation and least‑privilege principles so only authorised systems and staff can handle sensitive information. To deter suspicious activity, we monitor logins and transactions using technical and behavioural signals. Together, these measures help keep gameplay stable and secure.\n\n<\/p>\n<br>\n<p>\nEncryption is a core part of our security architecture, and we treat it as essential. Data moving between your device and our servers is protected at the channel level. When storing sensitive information, we apply additional safeguards to reduce unauthorised access risk. We also use integrity controls to detect anomalies and tampering attempts. Payment flows are designed to minimise the amount of sensitive data that needs direct handling. This helps keep deposits and withdrawals more protected.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, why we collect it, and how you can manage your preferences. We use information for registration, support, payments, legal obligations, and experience personalisation. We don’t use data beyond what’s necessary, and access is governed by procedures and technical barriers. We retain information only as long as needed to meet obligations and keep your account functioning correctly. You can contact support about data questions, updates, or clarifications. Transparency is part of how we deliver service.\n\n<\/p>\n<br>\n<p>\nSecurity is also about process, not just technology. Our team follows internal handling standards, updates tools regularly, and applies resilience checks. We use anti‑fraud approaches to protect against unauthorised payments and abuse attempts. If risk signals appear, we may request extra confirmation to safeguard you and your balance. This control supports fair play and confidence during payouts. The result is a safer environment where you can focus on entertainment and strategy.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: fast, clear, and helpful\n<\/h3>\n\n<p>\nOur support is built to give you answers without delays or unnecessary hassle. The fastest way is live chat, where you can quickly clarify bonus terms, withdrawal status, and account settings. Email is ideal for sending verification documents and receiving detailed responses for complex topics. If you need more personal guidance, we can arrange phone contact via a call‑back or through a manager by appointment. We explain steps in plain language and stay with you until the issue is fully resolved. Accuracy and friendliness matter to us, so we keep advice practical and focused on what helps right now. We assist with sign‑up, login recovery, payments, bonuses, bets, and technical questions. When needed, we also help you set responsible play limits or take a break. We respect your time, aiming for short queues and straightforward solutions. Our service quality follows consistent standards for every player. If your case needs checks, we update you on progress and timing so you’re never left guessing. Our goal is simple: keep play comfortable and solve questions quickly.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: quick help for accounts, bonuses, games, betting, and payouts.\n\n<\/li>\n            <li>• \nEmail: best for documents, detailed requests, and confirmations.\n\n<\/li>\n            <li>• \nPhone: call‑back\/arranged contact when details matter most.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse times and service quality:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically within minutes, with step‑by‑step guidance.\n\n<\/li>\n            <li>• \nEmail: detailed reply after reviewing your request and account context.\n\n<\/li>\n            <li>• \nEscalation: specialists step in for complex cases until completion.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: primary support and interface language.\n\n<\/li>\n            <li>• \nAdditional languages: availability may vary by time and request type; assistance can include translated guidance where needed.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Winbay",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program: tiers, perks, and rewards for your activity\n<\/h3>\n<p>\nOur loyalty program is built for players who want more value from every bet and every spin. We award activity points for casino play and participation in promotions so you can unlock perks faster. The more consistently you play, the higher your tier and the stronger your personalised rewards. We keep it simple: progress is visible in your profile, and rewards trigger automatically once you hit the threshold. Loyalty with us isn’t just a label—it translates into real benefits like cashback, free spins, and tailored offers. For convenience, we use coins\/points you can collect and redeem in a rewards shop. We also run missions and challenges so you can accelerate your tier progress in a fun way. You’re included from the start—create an account and begin playing. Higher tiers can unlock better limits, faster handling, and priority offers. We also deliver seasonal gifts and event‑based rewards for active players. The program supports different play styles, whether you focus on slots, live casino, or a mix. Our aim is for every step of your activity to feel rewarding.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJoining and key conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: register an account and verify profile details when needed.\n\n<\/li>\n            <li>• \nHow points are earned: from bets\/spins, plus tournaments, missions, and promos.\n\n<\/li>\n            <li>• \nProgress visibility: your status updates automatically when thresholds are reached.\n\n<\/li>\n            <li>• \nFair play: points are earned through genuine activity under the rules.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n<\/h4>\n\n <ul>\n            <li>• \nStarter (0–999): baseline rewards and daily promo access.\n\n<\/li>\n            <li>• \nBronze (1,000–4,999): +10–20 free spins monthly, boosted missions.\n\n<\/li>\n            <li>• \nSilver (5,000–14,999): cashback up to 5% weekly, personalised offers.\n\n<\/li>\n            <li>• \nGold (15,000–39,999): cashback up to 10%, weekend free spins, priority handling.\n\n<\/li>\n\t    <li>• \nPlatinum (40,000–99,999): cashback up to 15%, VIP events, enhanced tournaments.\n\n<\/li>\n\t    <li>• \nVIP (100,000+): personal manager, tailored bonus packs, special limits.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback: up to 15% weekly—returns part of net losses.\n\n<\/li>\n            <li>• \nFree spins: from 10 to 200 per month—based on tier and activity.\n\n<\/li>\n            <li>• \nPoints redemption: rewards shop—from small bonuses to bigger prizes.\n\n<\/li>\n            <li>• \nBoosted promos: higher‑value missions and exclusive challenges.\n\n<\/li>\n\t    <li>• \nVIP service: priority support and personalised promo conditions.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Specials: more ways to chase exciting wins\n<\/h3>\n\n<p>\nWe power your play with a wide range of bonuses and promotions so you can unlock extra value almost any day. You can start with a welcome package that boosts your bankroll and adds free spins for early momentum. Then come the regular offers: daily activities, missions, and challenges that reward active play. For competitive players, we run tournaments and leaderboards where prizes depend on performance and pace. Seasonal events add themed tasks and special rewards to keep things fresh. We design promos to suit different styles, from quick sessions to longer runs. In slots, you can chase bonus rounds and big multipliers, while live casino brings pace and strategy. In sportsbook, we support first‑deposit boosts and event‑driven specials around major fixtures. Extra rewards can also come from completing task streaks that encourage consistency. We also launch themed campaigns with instant prizes so progress feels immediate. Conditions are always visible in the promos area, and tracking is straightforward. Many offers can work side‑by‑side, letting you strengthen sessions without complexity. We refresh promotions regularly to reward activity and return visits. If you love variety, promos make it easy to switch between slots, live tables, and sports betting. Everything is designed to keep gameplay lively and winning potential meaningful.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses and offers\n<\/h4>\n\n <ul>\n            <li>• \nWelcome bonus: 100% up to A$750 — boosts your starting deposit.\n\n<\/li>\n            <li>• \nNew‑player free spins: up to 200 Free Spins — extra spins on selected popular slots.\n\n<\/li>\n            <li>• \nSports first‑deposit bonus: 100% up to A$150 — adds power to your first bets.\n\n<\/li>\n            <li>• \nWeekly cashback: up to 15% — returns value to keep you playing.\n\n<\/li>\n\t    <li>• \nSlot tournaments: prize pools up to A$10,000 — compete on points\/wins.\n\n<\/li>\n\t    <li>• \nLive casino leaderboards: rewards up to A$5,000 — based on activity and results.\n\n<\/li>\n\t    <li>• \nMissions and challenges: bonus credit and free spins — earned through task chains.\n\n<\/li>\n\t    <li>• \nSeasonal campaigns: themed tasks and special prizes — tied to major moments.\n\n<\/li>\n\t    <li>• \nDrops and instant prizes: surprise rewards during play — adds extra excitement.\n\n<\/li>\n\t    <li>• \nCombo promos: deposit boosts plus free spins — built for stronger sessions.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & Betting: slots, live casino, and sports in one place\n<\/h3>\n\n<p>\nWe’ve built a varied catalogue so you can choose the right format for your mood and strategy. Slots cover a wide mix, including classics, Megaways‑style titles, bonus‑buy options, and feature‑rich story slots. Table‑game lovers can enjoy roulette, blackjack, baccarat, and more, with different rules and pacing. Live casino adds real venue energy through professional dealers, strong streaming quality, and interactive features. In the game‑show area, you’ll find fast rounds and exciting multiplier moments. For sports fans, our sportsbook provides full coverage across major competitions plus extra markets around big events. We support both pre‑match betting and live betting so you can act on match momentum. Filters, search, and categories help you find games and fixtures quickly. Many titles include demo options so you can learn mechanics before playing for real. We keep the library fresh with regular additions and new releases. The result is one platform for entertainment, strategy, and multiple ways to chase wins.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKey game and betting categories:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classic slots, video slots, Megaways, bonus buy, jackpots.\n\n<\/li>\n            <li>• \nLive casino: live roulette, live blackjack, live baccarat, live poker formats.\n\n<\/li>\n            <li>• \nTable games: roulette, blackjack, baccarat, poker variants, scratch games.\n\n<\/li>\n            <li>• \nGame shows: fast rounds, multipliers, interactive mechanics.\n\n<\/li>\n\n\t    <li>• \nJackpots: big‑prize slots and progressive mechanics.\n\n<\/li>\n\t    <li>• \nSportsbook: football, tennis, basketball, ice hockey, and more.\n\n<\/li>\n\t    <li>• \nLive betting: in‑play wagers with updating odds.\n\n<\/li>\n\t    <li>• \nExtras: virtual events and special markets around top fixtures.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & Maximum Bets: clear category guidelines\n<\/h3>\n\n<p> \nWe offer flexible betting limits so you can play carefully or step up the action with higher stakes. Minimum bets let you explore games and strategies comfortably, while maximum limits open up bigger winning potential in your preferred formats. Exact limits are shown inside each game and may vary by provider, currency, and mode (slots, live tables, sportsbook). Below are practical guidelines by category.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #4FB8E4;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$1,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$10,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live game shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$4,600<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (pre‑match)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sports (live betting)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">A$20,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawals & Payout Speed: timelines, steps, and limits\n<\/h3>\n\n<p>\nWe keep withdrawals clear and trackable, so you can see your request status and understand each stage. The process typically includes request review, fast verification when needed, and payout delivery through your chosen method. We support popular options such as bank cards, e‑wallets, bank transfers, and crypto solutions so you can choose what fits you best. Payout speed depends on the method: e‑wallets and crypto are often quicker, while bank transfers may take longer due to banking procedures. Verification protects your balance and ensures payouts go to the rightful account owner. We recommend completing your profile early and keeping documents ready to speed up larger withdrawals. Repeat withdrawals often move faster once key details are already confirmed. For transparency, limits and requirements are shown inside the cashier. If extra checks are needed, support explains the steps and expected timing. We aim for steady timelines and consistent payout quality. Limits can vary by account status and payment method. The result is better control over your funds and confidence when you cash out.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank cards: convenient for everyday payouts.\n\n<\/li>\n            <li>• \nE‑wallets: fast transfers with simple tracking.\n\n<\/li>\n            <li>• \nBank transfer: suitable for larger planned withdrawals.\n\n<\/li>\n            <li>• \nCryptocurrency: speed, flexibility, and a modern payment route.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSpeed and processing timelines:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInternal review: typically minutes up to 24 hours (depending on checks).\n\n<\/li>\n            <li>• \nE‑wallets\/crypto: often within 1–24 hours after approval.\n\n<\/li>\n            <li>• \nBank transfers: commonly 1–3 business days after approval.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n<\/h4>\n\n <ul>\n            <li>• \nDaily limit: up to A$750.\n\n<\/li>\n            <li>• \nMonthly limit: up to A$10,500.\n\n<\/li>\n            <li>• \nExact limits: displayed in the cashier and may vary by method\/status.\n\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is there a demo mode?",
+                            "answer": "Many slots include demo play so you can learn mechanics, bonus rounds, and features before wagering real money.\n\n\n"
+                        },
+                        {
+                            "title": "How fast do bonuses activate after a deposit?",
+                            "answer": "Bonuses usually trigger automatically after your deposit and the promo conditions are met. If you need help, support can confirm your status and next steps.\n\n\n"
+                        },
+                        {
+                            "title": "Can I deposit with one method and withdraw with another?",
+                            "answer": "Yes, flexible flows are supported, though in some cases security steps may require withdrawing via the same method or confirming payout details.\n\n\n"
+                        },
+                        {
+                            "title": "How do I know games are fair?",
+                            "answer": "We feature titles from established providers and support fair‑play standards, with outcomes generated by the game’s verified mechanics and algorithms.\n\n\n"
+                        },
+                        {
+                            "title": "How do I join tournaments and leaderboards?",
+                            "answer": "Open the promotions area, select an event, and play the listed games. Tracking is automatic and your progress updates as you participate.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

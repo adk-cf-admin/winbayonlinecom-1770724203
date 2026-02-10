@@ -1,0 +1,19 @@
+{
+  "name": "Winbay",
+  "short_name": "Winbay",
+  "theme_color": "",
+  "background_color": "#023B68",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770721128-logo-4-cr-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
